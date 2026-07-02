@@ -57,8 +57,8 @@ Important profile details:
 - Location: San Francisco Bay Area, CA
 - Email: `pateldi1024@gmail.com`
 - LinkedIn: `https://www.linkedin.com/in/disha-patel2411`
-- Resume link: `https://drive.google.com/file/d/1k5mMur9gWTyX9e15lNpU_miYwQ8PfGhx/view?usp=sharing`
-- PDF resume source: `https://framerusercontent.com/assets/G0d6H1LbzyU5X1JMoCKbcLfIR4.pdf`
+- Resume link: `https://drive.google.com/file/d/12Y6zNiB5UIRlaZbQJCzGtdRea8T6JCJ8/view?usp=share_link`
+- PDF resume source: `https://drive.google.com/file/d/12Y6zNiB5UIRlaZbQJCzGtdRea8T6JCJ8/view?usp=share_link`
 
 ## Visual Direction
 
